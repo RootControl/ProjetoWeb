@@ -1,0 +1,9 @@
+.tudoCentralizado {
+    width: 1080px;
+    margin:0 auto;
+    background-color: aliceblue;
+}
+
+#centralizado {
+    text-align: center;
+}
