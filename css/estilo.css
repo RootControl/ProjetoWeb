@@ -7,3 +7,45 @@
 #centralizado {
     text-align: center;
 }
+
+#contato {
+    padding-left: 30%;
+}
+
+#cabecalho {
+    background-color: slategray;
+    border-radius: 20px;
+}
+
+#menu {
+    display: block;
+    width: 800px;
+    position: relative;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 100px;
+}
+
+#menuItem {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    padding: 15px 10px;
+    margin-right: -5px;
+}
+
+#menuItem:hover {
+    background-color: slategray;
+    color: white;
+    transition-duration: 0.3s;
+}
+
+#mapa {
+    border-radius: 20px;
+}
+
+#footer {
+    display: block;
+    min-height: 100px;
+    width: 100%;
+}
